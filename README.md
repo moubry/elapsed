@@ -21,8 +21,13 @@ Or install it from GitHub with:
 Examples:
 
     $ elapsed 4/24/2010 now
+    2 years, 6 months, 9 days, 10 hours, 8 minutes, and 10 seconds
+
     $ elapsed 5/25/1977 5/15/2005
+    27 years, 11 months, and 20 days
+
     $ elapsed 10:34pm 6:13am
+    16 hours and 21 minutes
 
 ## Contributing
 
