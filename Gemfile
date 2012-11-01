@@ -5,3 +5,5 @@ gemspec
 
 gem 'rspec'
 gem 'timecop'
+gem 'chronic'
+gem 'dotiw'

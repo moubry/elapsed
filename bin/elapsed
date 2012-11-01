@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require 'elapsed'
+
+abort 'We need at least one file argument.' if ARGV.size < 1
+start_time = ARGV[0]
+end_time = ARGV[1]
+
+puts Elapsed.calculate(start_time, end_time)
