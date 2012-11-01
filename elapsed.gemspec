@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Sean Moubry"]
   gem.email         = ["sean@moubry.com"]
   gem.description   = %q{Calculate the elapsed time between two dates/times from the command line.}
-  gem.summary       = %q{Calculate the elapsed time between two dates/times from the command line.}
+  gem.summary       = %q{Elapsed is a simple command line tool for calculating the elapsed duration between two points in time. Works for dates. Works for times.}
   gem.homepage      = "http://github.com/moubry/elapsed"
 
   gem.files         = `git ls-files`.split($\)
